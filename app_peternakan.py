@@ -7,7 +7,9 @@ import os
 import uuid
 
 DATA_FILE = "keuangan_peternakan_streamlit.json"
-LOGO_PATH = r"C:\Users\Irsa\OneDrive\Desktop\sia\Sapi.png" 
+LOGO_PATH = "Sapi.png" 
+
+st.sidebar.image(LOGO_PATH, use_column_width=True)
 
 def set_css_style():
     st.markdown(

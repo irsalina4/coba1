@@ -9,8 +9,6 @@ import uuid
 DATA_FILE = "keuangan_peternakan_streamlit.json"
 LOGO_PATH = "Sapi.png" 
 
-st.sidebar.image(LOGO_PATH, use_column_width=True)
-
 def set_css_style():
     st.markdown(
         f"""

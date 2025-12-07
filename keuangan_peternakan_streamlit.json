@@ -1,0 +1,225 @@
+{
+    "jurnal_umum": [
+        {
+            "id": "d9beca2d-7a4e-43e8-b0d9-2839611772e6",
+            "tanggal": "2025-05-24",
+            "deskripsi": "Pembelian barang dagangan",
+            "entri": [
+                {
+                    "akun": "Biaya Pembelian Perlengkapan",
+                    "debit": 10000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 10000.0
+                }
+            ]
+        },
+        {
+            "id": "b3f16c54-727d-437a-b988-1b9edab0bb3d",
+            "tanggal": "2025-05-24",
+            "deskripsi": "Pembelian Air untuk pembersihan",
+            "entri": [
+                {
+                    "akun": "Biaya Pembelian Perlengkapan",
+                    "debit": 50000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 50000.0
+                }
+            ]
+        },
+        {
+            "id": "02feba99-64f2-4b6f-8a81-0a5b7547d48b",
+            "tanggal": "2025-05-24",
+            "deskripsi": "kas Masuk Jual sapi",
+            "entri": [
+                {
+                    "akun": "Biaya Obat",
+                    "debit": 14000000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Persediaan",
+                    "debit": 0.0,
+                    "kredit": 14000000.0
+                }
+            ]
+        },
+        {
+            "id": "5295dc0e-2fdb-49db-ae65-b30dd7109b1d",
+            "tanggal": "2025-12-05",
+            "deskripsi": "jual susu",
+            "entri": [
+                {
+                    "akun": "Kas",
+                    "debit": 30000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Penjualan Susu",
+                    "debit": 0.0,
+                    "kredit": 30000.0
+                }
+            ]
+        },
+        {
+            "id": "493d5a6d-42af-4123-811a-a49da9a5a0a2",
+            "tanggal": "2025-12-05",
+            "deskripsi": "jual susu",
+            "entri": [
+                {
+                    "akun": "Kas",
+                    "debit": 45000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Penjualan Susu",
+                    "debit": 0.0,
+                    "kredit": 45000.0
+                }
+            ]
+        },
+        {
+            "id": "6f1b8bc0-783a-47b5-9f17-8e8da5237da1",
+            "tanggal": "2025-12-05",
+            "deskripsi": "bayar listrik",
+            "entri": [
+                {
+                    "akun": "Biaya Listrik",
+                    "debit": 25000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 25000.0
+                }
+            ]
+        },
+        {
+            "id": "d5f76551-3c18-46fa-b6ca-41eec8ab8795",
+            "tanggal": "2025-12-05",
+            "deskripsi": "bayar air",
+            "entri": [
+                {
+                    "akun": "Biaya Air",
+                    "debit": 49000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 49000.0
+                }
+            ]
+        },
+        {
+            "id": "5cc2cf40-9068-4005-9273-d61ccdb8d438",
+            "tanggal": "2025-12-05",
+            "deskripsi": "biaya air",
+            "entri": [
+                {
+                    "akun": "Biaya Air",
+                    "debit": 37000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 37000.0
+                }
+            ]
+        },
+        {
+            "id": "c88f5b0b-374e-4592-a3c5-85c3918bf908",
+            "tanggal": "2025-12-07",
+            "deskripsi": "beli sapi",
+            "entri": [
+                {
+                    "akun": "Persediaan",
+                    "debit": 70000000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 70000000.0
+                }
+            ]
+        },
+        {
+            "id": "e48bb11a-093b-4d2d-b016-d2238a843ee5",
+            "tanggal": "2025-12-07",
+            "deskripsi": "beban listrik",
+            "entri": [
+                {
+                    "akun": "Biaya Listrik",
+                    "debit": 30000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 30000.0
+                }
+            ]
+        },
+        {
+            "id": "e6337ac1-d547-4435-9f69-0d489789e7d7",
+            "tanggal": "2025-12-07",
+            "deskripsi": "jual susu",
+            "entri": [
+                {
+                    "akun": "Kas",
+                    "debit": 19000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Penjualan Susu",
+                    "debit": 0.0,
+                    "kredit": 19000.0
+                }
+            ]
+        },
+        {
+            "id": "4ef414f1-cc81-42bf-b0b6-da421be573e0",
+            "tanggal": "2025-12-07",
+            "deskripsi": "bayar air",
+            "entri": [
+                {
+                    "akun": "Biaya Air",
+                    "debit": 10000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 10000.0
+                }
+            ]
+        },
+        {
+            "id": "f13f3980-515e-4cb5-8d12-60b3100fd48d",
+            "tanggal": "2025-12-07",
+            "deskripsi": "beli pakan",
+            "entri": [
+                {
+                    "akun": "Biaya Pakan",
+                    "debit": 50000.0,
+                    "kredit": 0.0
+                },
+                {
+                    "akun": "Kas",
+                    "debit": 0.0,
+                    "kredit": 50000.0
+                }
+            ]
+        }
+    ]
+}
